@@ -1,0 +1,17 @@
+id_unidad,tipo_componente,tipo_sangre,factor_rh,fecha_caducidad,temperatura_almacenamiento,estado,refrigerador_asignado
+260517000001,Globulos Rojos,O,-,2026-06-25,4.0,Transfundida,Ref-GR-01
+260517000002,Globulos Rojos,O,-,2026-06-26,4.0,Transfundida,Ref-GR-01
+260517000003,Globulos Rojos,O,-,2026-06-27,4.0,Transfundida,Ref-GR-01
+260517000004,Globulos Rojos,O,-,2026-06-28,4.0,Transfundida,Ref-GR-01
+260517000005,Globulos Rojos,O,-,2026-06-29,4.0,Transfundida,Ref-GR-01
+260516080002,Plasma,O,-,2027-05-16,-20.0,Liberada,Congelador-01
+260510114501,Sangre Entera,O,-,2026-06-14,4.0,Liberada,Ref-Cuarentena-A
+260517070001,Globulos Rojos,O,+,2026-06-21,4.0,Liberada,Ref-Cuarentena-A
+260517070002,Plaquetas,O,+,2026-05-22,22.0,Liberada,Agitador-PLT
+260512080001,Globulos Rojos,O,+,2026-06-16,4.0,Transfundida,Ref-GR-02
+260512080002,Globulos Rojos,A,+,2026-06-16,4.0,Transfundida,Ref-GR-02
+260512080003,Globulos Rojos,O,+,2026-06-16,4.0,Transfundida,Ref-GR-02
+260605183642,Plasma,A,-,2027-05-20,-20.0,Liberada,Congelador-Externos-A
+260605183777,Globulos Rojos,O,-,2026-06-30,4.0,Transfundida,Ref-Externos-01
+2605180415392,Plasma,O,+,2027-05-18,-20.0,Liberada,Congelador-A
+2605180415393,Plaquetas,O,+,2026-05-23,22.0,Liberada,Agitador-01

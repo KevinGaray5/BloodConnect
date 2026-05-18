@@ -1,0 +1,39 @@
+==========================================
+   ETIQUETA DE BOLSA - ESTÁNDAR ISBT 128
+==========================================
+Folio Interno: 2605152102151
+Código ISBT Lineal: =W0001 26 2605152102151
+Componente: GLOBULOS ROJOS
+Grupo y Rh: A+
+Caducidad biológica: 2026-06-26
+Almacenamiento estricto: 4.0 °C
+Estado Actual: EN CUARENTENA
+Impreso en: 2026-05-16 14:12:29
+==========================================
+
+==========================================
+   ETIQUETA DE BOLSA - ESTÁNDAR ISBT 128
+==========================================
+Folio Interno: 2605152102151
+Código ISBT Lineal: =W0001 26 2605152102151
+Componente: GLOBULOS ROJOS
+Grupo y Rh: A+
+Caducidad biológica: 2026-06-26
+Almacenamiento estricto: 4.0 °C
+Estado Actual: EN CUARENTENA
+Impreso en: 2026-05-16 14:16:54
+==========================================
+
+==========================================
+   ETIQUETA DE BOLSA - ESTÁNDAR ISBT 128
+==========================================
+Folio Interno: 260517000005
+Código ISBT Lineal: =W0001 26 260517000005
+Componente: GLOBULOS ROJOS
+Grupo y Rh: O-
+Caducidad biológica: 2026-06-29
+Almacenamiento estricto: 4.0 °C
+Estado Actual: TRANSFUNDIDA
+Impreso en: 2026-05-17 18:49:12
+==========================================
+

@@ -1,0 +1,16 @@
+{
+    "directorios": {
+        "datos": "datos",
+        "respaldos": "datos/respaldos"
+    },
+    "archivos": {
+        "donantes": "datos/donantes.csv",
+        "pacientes": "datos/pacientes.csv",
+        "trabajadores": "datos/trabajadores.csv",
+        "extracciones": "datos/extracciones.csv",
+        "inventario": "datos/inventario.csv",
+        "transfusiones": "datos/transfusiones.csv",
+        "citas": "datos/citas.csv",
+        "log_auditoria": "datos/log_auditoria.txt"
+    }
+}

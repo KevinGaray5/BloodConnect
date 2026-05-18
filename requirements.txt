@@ -1,0 +1,12 @@
+# Interfaz Gráfica Moderna
+customtkinter>=5.2.0
+Pillow>=10.0.0
+
+# Manejo de Datos y CSVs
+pandas>=2.0.0
+
+# Seguridad y Hashes de Contraseñas
+bcrypt>=4.0.0
+
+# Generación de Reportes Gráficos
+matplotlib>=3.7.0

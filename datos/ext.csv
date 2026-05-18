@@ -1,0 +1,5 @@
+id_unidad,tipo_componente,tipo_sangre,factor_rh,fecha_caducidad,temperatura_almacenamiento,estado,refrigerador_asignado
+88001122,Globulos Rojos,O,-,2026-06-30,4.0,Liberada,Ref-HospSur-01
+88001123,Globulos Rojos,O,-,2026-06-30,4.0,Liberada,Ref-HospSur-01
+88001124,Plasma,A,-,2027-05-20,-20.0,Liberada,Congelador-HospSur-A
+88001125,Plaquetas,B,+,2026-05-25,22.0,Liberada,Agitador-HospSur

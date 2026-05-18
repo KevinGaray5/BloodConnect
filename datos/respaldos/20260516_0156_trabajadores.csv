@@ -1,0 +1,2 @@
+id_global,nombre,fecha_nacimiento,genero,tipo_sangre,factor_rh,cedula_profesional,rol,password_hash
+1001,Kevin Gamaliel Garay,2005-04-05,MASCULINO,N/A,,1234567890,Administrador,$2b$12$XlYwpNnCimzyHel0MlmaCuJB1Qe4zw1ju6K.bj8MRG.BXKUPmOCma

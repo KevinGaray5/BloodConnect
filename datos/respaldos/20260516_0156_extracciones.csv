@@ -1,0 +1,6 @@
+id_extraccion,id_donante,volumen_ml,fecha_hora,observaciones_clinicas,id_personal_responsable
+2605051918,2001,450,2026-05-05 19:18:02,,1001
+260515182006,260515181342,450,2026-05-15 18:20:06,"Extracción limpia, donante hemodinámicamente estable.",1001
+260515192046,260515192025,450,2026-05-15 19:20:46,,1001
+260515194931,260515194645,450,2026-05-15 19:49:31,"Extracción limpia, donante hemodinámicamente estable.",1001
+260515210215,260515210054,450,2026-05-15 21:02:15,"Extracción limpia, donante hemodinámicamente estable.",1001

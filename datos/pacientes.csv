@@ -1,0 +1,16 @@
+id_global,nombre,fecha_nacimiento,genero,tipo_sangre,factor_rh,id_paciente,area_internamiento,diagnostico_ingreso,prioridad_clinica,historial_transfusiones
+260517200001,Laura Martínez Rojas,1982-05-14,FEMENINO,O,-,1001,Urgencias,Hemorragia obstétrica,Rojo,260517000005
+260517200002,Pedro Gómez Tagle,1975-11-20,MASCULINO,A,+,1002,Medicina Interna,Anemia severa,Amarillo,260512080001
+260517200003,Sofía Bernal Díaz,1990-01-30,FEMENINO,B,+,1003,Quirófano 3,Cirugía Programada,Verde,
+260517200004,Arturo Fuentes Muro,1968-08-08,MASCULINO,O,+,1004,Terapia Intensiva,Traumatismo múltiple,Rojo,260512080003
+260517200005,Camila Ortiz Vega,2005-04-12,FEMENINO,AB,+,1005,Oncología,Leucemia Linfoblástica,Amarillo,
+260517200006,Roberto Santos,1955-09-22,MASCULINO,A,-,1006,Traumatología,Reemplazo de Cadera,Verde,
+260517135625,Urgencia Nn 260517135625,1990-01-01,NO ESPECIFICADO,O,-,260517135625,Urgencias / Trauma,Hemorragia masiva (código rojo),Rojo,
+260517135915,Urgencia Nn 260517135915,1990-01-01,NO ESPECIFICADO,O,-,260517135915,Urgencias / Trauma,Hemorragia masiva (código rojo),Rojo,
+260517135931,Urgencia Nn 260517135931,1990-01-01,NO ESPECIFICADO,O,-,260517135931,Urgencias / Trauma,Hemorragia masiva (código rojo),Rojo,
+260517140010,Urgencia Nn 260517140010,1990-01-01,NO ESPECIFICADO,O,-,260517140010,Urgencias / Trauma,Hemorragia masiva (código rojo),Rojo,
+260517140831,Urgencia Nn 260517140831,1990-01-01,NO ESPECIFICADO,O,-,260517140831,Urgencias / Trauma,Hemorragia masiva (código rojo),Rojo,260517000001.0
+260517141104,Urgencia Nn 260517141104,1990-01-01,NO ESPECIFICADO,O,-,260517141104,Urgencias / Trauma,Hemorragia masiva (código rojo),Rojo,"260517000002,260517000003,260517000004"
+260517231912,Urgencia Nn 260517231912,1990-01-01,NO ESPECIFICADO,O,-,260517231912,Urgencias / Trauma,Hemorragia masiva (código rojo),Rojo,260605183777
+260518042528,Urgencia Nn 260518042528,1990-01-01,NO ESPECIFICADO,O,-,260518042528,Urgencias / Trauma,Hemorragia masiva (código rojo),Rojo,
+260518042532,Urgencia Nn 260518042532,1990-01-01,NO ESPECIFICADO,A,+,260518042532,Urgencias / Trauma,Hemorragia masiva (código rojo),Rojo,260512080002

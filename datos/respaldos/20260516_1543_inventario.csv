@@ -1,0 +1,13 @@
+id_unidad,tipo_componente,tipo_sangre,factor_rh,fecha_caducidad,temperatura_almacenamiento,estado,refrigerador_asignado
+101,Globulos Rojos,A,+,2026-06-10,4.0,Transfundida,Ref-01
+102,Plasma,O,+,2027-05-18,-20.0,Liberada,Congelador-A
+103,Plaquetas,B,-,2026-05-08,22.0,Desechada,Agitador-01
+260515182006,Sangre Entera,A,+,2026-06-19,4.0,Liberada,Area-Cuarentena-01
+260515192046,Sangre Entera,A,+,2026-06-19,4.0,En Cuarentena,Area-Cuarentena-01
+2605152102151,Globulos Rojos,A,+,2026-06-26,4.0,En Cuarentena,Ref-01
+2605152102152,Plasma,A,+,2027-05-15,-20.0,En Cuarentena,Congelador-A
+2605152102153,Plaquetas,A,+,2026-05-20,22.0,En Cuarentena,Agitador-01
+260516030638,Sangre Entera,O,+,2026-06-20,4.0,En Cuarentena,Area-Cuarentena-01
+2605151949311,Globulos Rojos,A,+,2026-06-26,4.0,Liberada,Ref-01
+2605151949312,Plasma,A,+,2027-05-15,-20.0,Liberada,Congelador-A
+2605151949313,Plaquetas,A,+,2026-05-20,22.0,Liberada,Agitador-01

@@ -1,0 +1,17 @@
+id_extraccion,id_donante,volumen_ml,fecha_hora,observaciones_clinicas,id_personal_responsable
+tipo_sangre,factor_rh,fecha_caducidad,temperatura_almacenamiento,estado,refrigerador_asignado
+B,+,2026-05-27,4.0,Liberada,Ref-GR-01
+B,+,2027-04-15,-20.0,Liberada,Congelador-01
+O,-,2026-06-14,4.0,En Cuarentena,Ref-Cuarentena-A
+A,+,2026-05-20,22.0,En Cuarentena,Agitador-PLT
+AB,+,2027-01-10,-20.0,Liberada,Congelador-02
+O,-,2026-06-20,4.0,Liberada,Ref-GR-01
+O,-,2027-05-16,-20.0,Liberada,Congelador-01
+A,-,2026-06-20,4.0,Liberada,Ref-SE-01
+O,+,2026-06-21,4.0,En Cuarentena,Ref-Cuarentena-A
+O,+,2026-05-22,22.0,En Cuarentena,Agitador-PLT
+O,+,2026-06-16,4.0,Liberada,Ref-GR-02
+A,+,2026-06-16,4.0,Liberada,Ref-GR-02
+O,+,2026-06-16,4.0,Liberada,Ref-GR-02
+260517164259,260517163355,450,2026-05-17 16:42:59,"Extracción limpia, donante hemodinámicamente estable.",1001
+260518041539,260517100001,450,2026-05-18 04:15:39,"Extracción limpia, donante hemodinámicamente estable.",1001
