@@ -1,0 +1,30 @@
+# 1. Entornos Virtuales (¡NUNCA se suben a GitHub!)
+env/
+venv/
+ENV/
+.env
+
+# 2. Archivos temporales y caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# 3. Archivos del Sistema Operativo
+.DS_Store
+Thumbs.db
+
+# 4. Configuración de Editores de Código (VS Code, PyCharm, etc.)
+.vscode/
+.idea/
+
+# 5. Archivos Temporales y de Bloqueo de tu Sistema de Persistencia
+# (Para evitar subir los candados o temporales cuando la app crashea)
+*.lock
+*.tmp
+
+# 6. (Opcional) Respaldos de la base de datos
+# Descomenta la siguiente línea si NO quieres subir tus copias de seguridad a GitHub
+datos/respaldos/
+logs/

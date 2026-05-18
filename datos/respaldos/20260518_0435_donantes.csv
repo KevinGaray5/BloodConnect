@@ -1,9 +1,0 @@
-id_global,nombre,fecha_nacimiento,genero,tipo_sangre,factor_rh,ultima_donacion,tipo_donante,peso_kg,hemoglobina,contacto,estado_elegibilidad
-260517100001,Juan Pérez López,1995-08-12,MASCULINO,O,+,2026-05-18,Altruista,75.5,15.2,5512345678,False
-260517100002,María González Salas,1998-03-22,FEMENINO,A,-,,Familiar,62.0,14.5,5523456789,True
-260517100003,Carlos Hernández Ruiz,2001-11-05,MASCULINO,B,+,2026-04-15,Reposición,80.0,16.0,5534567890,False
-260517100004,Ana Ramírez Silva,1985-07-30,FEMENINO,AB,+,2024-01-20,Altruista,58.5,13.8,5545678901,True
-260517100005,Luis Torres Vargas,1990-12-15,MASCULINO,O,-,2026-05-10,Familiar,90.0,15.5,5556789012,False
-260517100006,Sofía Castro Mora,1999-09-09,FEMENINO,A,+,2025-12-01,Reposición,48.0,11.5,5567890123,False
-260517100007,Diego Flores Muro,1993-02-18,MASCULINO,O,+,2025-05-05,Altruista,85.0,17.1,5578901234,True
-260517163355,Kevin  Garay Nolasco,2005-05-05,MASCULINO,O,+,2026-05-17,Altruista,54.0,15.0,24818181,False

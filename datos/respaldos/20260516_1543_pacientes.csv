@@ -1,9 +1,0 @@
-id_global,nombre,fecha_nacimiento,genero,tipo_sangre,factor_rh,id_paciente,area_internamiento,diagnostico_ingreso,prioridad_clinica,total_transfusiones,historial_transfusiones
-3001,Carlos Ruiz,1950-11-10,Masculino,AB,+,998877,Urgencias,Hemorragia severa,Codigo Rojo,0.0,101.0
-3002,Elena Marín,1985-07-22,Femenino,O,+,112233,Piso 3,Cirugia programada,Codigo Verde,1.0,
-260516154238,Urgencia Nn 260516154238,1990-01-01,NO ESPECIFICADO,O,-,260516154238,Urgencias / Trauma,Hemorragia masiva (código rojo),Rojo,,
-260516154240,Urgencia Nn 260516154240,1990-01-01,NO ESPECIFICADO,A,+,260516154240,Urgencias / Trauma,Hemorragia masiva (código rojo),Rojo,,
-260516154246,Urgencia Nn 260516154246,1990-01-01,NO ESPECIFICADO,A,+,260516154246,Urgencias / Trauma,Hemorragia masiva (código rojo),Rojo,,
-260516154259,Urgencia Nn 260516154259,1990-01-01,NO ESPECIFICADO,A,+,260516154259,Urgencias / Trauma,Hemorragia masiva (código rojo),Rojo,,
-260516154305,Urgencia Nn 260516154305,1990-01-01,NO ESPECIFICADO,AB,+,260516154305,Urgencias / Trauma,Hemorragia masiva (código rojo),Rojo,,
-260516154311,Urgencia Nn 260516154311,1990-01-01,NO ESPECIFICADO,AB,+,260516154311,Urgencias / Trauma,Hemorragia masiva (código rojo),Rojo,,

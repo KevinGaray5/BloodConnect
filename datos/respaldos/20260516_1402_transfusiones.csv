@@ -1,3 +1,0 @@
-id_transfusion,id_unidad,id_paciente,id_personal_medico,reacciones_adversas,timestamp_inicio,estado_transfusion
-1001,2405101230,5001,9001,Ninguna,2026-05-05 10:30:00,Completada
-86359987804803,101,998877,1001,Ninguna,2026-05-16 03:57:38,Completada

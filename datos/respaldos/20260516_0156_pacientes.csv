@@ -1,3 +1,0 @@
-id_global,nombre,fecha_nacimiento,genero,tipo_sangre,factor_rh,id_paciente,area_internamiento,diagnostico_ingreso,prioridad_clinica,total_transfusiones
-3001,Carlos Ruiz,1950-11-10,Masculino,AB,+,998877,Urgencias,Hemorragia severa,Codigo Rojo,0
-3002,Elena Marín,1985-07-22,Femenino,O,+,112233,Piso 3,Cirugia programada,Codigo Verde,1
