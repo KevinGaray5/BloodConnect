@@ -116,7 +116,7 @@ class VentanaPrincipal(ctk.CTk):
         for after_id in self.tk.eval('after info').split():
             self.after_cancel(after_id)
             
-        self.destroy() 
+        self.withdraw()        
         
         # Importación local para evitar dependencia circular
         from gui_vistas.login import VentanaLogin

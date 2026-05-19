@@ -219,3 +219,6 @@
 [2026-05-18 04:32:51] | LOG-260518043251 | SEV: INFO | USR: 1001 | ENTIDAD: SISTEMA | ACCION: Logística (Salida): Envío 33834 actualizado a En Tránsito
 [2026-05-18 04:34:49] | LOG-260518043449 | SEV: INFO | USR: 1001 | ENTIDAD: HEMOCOMPONENTE | ACCION: Auditoría relacional vena a vena solicitada exitosamente para el folio 2605151000.
 [2026-05-18 04:35:20] | LOG-260518043520 | SEV: INFO | USR: 1001 | ENTIDAD: SISTEMA | ACCION: Respaldo manual completado exitosamente (7 repositorios copiados).
+[2026-05-18 21:03:07] | LOG-260518210307 | SEV: INFO | USR: 1001 | ENTIDAD: TRABAJADOR | ACCION: El usuario ingresó al sistema correctamente (Rol: Administrador).
+[2026-05-18 21:29:49] | LOG-260518212949 | SEV: INFO | USR: 1001 | ENTIDAD: TRABAJADOR | ACCION: El usuario cerró su sesión de forma segura.
+[2026-05-18 21:35:26] | LOG-260518213526 | SEV: INFO | USR: 1001 | ENTIDAD: TRABAJADOR | ACCION: El usuario ingresó al sistema correctamente (Rol: Administrador).
